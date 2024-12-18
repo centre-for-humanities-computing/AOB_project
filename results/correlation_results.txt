@@ -1,0 +1,180 @@
+
+
+
+average_wordlen
+
+kudos: ρ: -0.02, p: 0.42
+comments: ρ: -0.01, p: 0.67
+kudo_time_ratio: ρ: -0.05, p: 0.01
+comment_time_ratio: ρ: -0.05, p: 0.01
+kudo_comment_ratio: ρ: -0.02, p: 0.34
+
+
+
+msttr
+
+kudos: ρ: -0.04, p: 0.03
+comments: ρ: 0.05, p: 0.02
+kudo_time_ratio: ρ: -0.06, p: 0.00
+comment_time_ratio: ρ: 0.01, p: 0.63
+kudo_comment_ratio: ρ: -0.13, p: 0.00
+
+
+
+average_sentlen
+
+kudos: ρ: 0.18, p: 0.00
+comments: ρ: 0.16, p: 0.00
+kudo_time_ratio: ρ: 0.15, p: 0.00
+comment_time_ratio: ρ: 0.13, p: 0.00
+kudo_comment_ratio: ρ: 0.04, p: 0.05
+
+
+
+gzipr
+
+kudos: ρ: 0.11, p: 0.00
+comments: ρ: 0.04, p: 0.04
+kudo_time_ratio: ρ: 0.07, p: 0.00
+comment_time_ratio: ρ: 0.01, p: 0.62
+kudo_comment_ratio: ρ: 0.10, p: 0.00
+
+
+
+bzipr
+
+kudos: ρ: 0.15, p: 0.00
+comments: ρ: 0.08, p: 0.00
+kudo_time_ratio: ρ: 0.11, p: 0.00
+comment_time_ratio: ρ: 0.05, p: 0.02
+kudo_comment_ratio: ρ: 0.11, p: 0.00
+
+
+
+nominal_ratio
+
+kudos: ρ: 0.04, p: 0.04
+comments: ρ: 0.10, p: 0.00
+kudo_time_ratio: ρ: 0.01, p: 0.79
+comment_time_ratio: ρ: 0.04, p: 0.03
+kudo_comment_ratio: ρ: -0.08, p: 0.00
+
+
+
+nominal_ratio_inverse
+
+kudos: ρ: -0.04, p: 0.04
+comments: ρ: -0.10, p: 0.00
+kudo_time_ratio: ρ: -0.01, p: 0.79
+comment_time_ratio: ρ: -0.04, p: 0.03
+kudo_comment_ratio: ρ: 0.08, p: 0.00
+
+
+
+ndd_mean
+
+kudos: ρ: -0.04, p: 0.06
+comments: ρ: 0.03, p: 0.08
+kudo_time_ratio: ρ: -0.06, p: 0.00
+comment_time_ratio: ρ: -0.00, p: 0.81
+kudo_comment_ratio: ρ: -0.10, p: 0.00
+
+
+
+ndd_std
+
+kudos: ρ: 0.07, p: 0.00
+comments: ρ: 0.10, p: 0.00
+kudo_time_ratio: ρ: 0.05, p: 0.01
+comment_time_ratio: ρ: 0.07, p: 0.00
+kudo_comment_ratio: ρ: -0.04, p: 0.05
+
+
+
+dd_mean
+
+kudos: ρ: 0.16, p: 0.00
+comments: ρ: 0.12, p: 0.00
+kudo_time_ratio: ρ: 0.13, p: 0.00
+comment_time_ratio: ρ: 0.10, p: 0.00
+kudo_comment_ratio: ρ: 0.05, p: 0.01
+
+
+
+dd_std
+
+kudos: ρ: 0.15, p: 0.00
+comments: ρ: 0.20, p: 0.00
+kudo_time_ratio: ρ: 0.16, p: 0.00
+comment_time_ratio: ρ: 0.21, p: 0.00
+kudo_comment_ratio: ρ: -0.03, p: 0.12
+
+
+
+ttr_verb
+
+kudos: ρ: 0.07, p: 0.00
+comments: ρ: 0.08, p: 0.00
+kudo_time_ratio: ρ: 0.05, p: 0.01
+comment_time_ratio: ρ: 0.05, p: 0.01
+kudo_comment_ratio: ρ: -0.01, p: 0.51
+
+
+
+ttr_noun
+
+kudos: ρ: 0.08, p: 0.00
+comments: ρ: 0.10, p: 0.00
+kudo_time_ratio: ρ: 0.09, p: 0.00
+comment_time_ratio: ρ: 0.10, p: 0.00
+kudo_comment_ratio: ρ: -0.01, p: 0.74
+
+
+
+flesch_grade
+
+kudos: ρ: 0.14, p: 0.00
+comments: ρ: 0.14, p: 0.00
+kudo_time_ratio: ρ: 0.11, p: 0.00
+comment_time_ratio: ρ: 0.10, p: 0.00
+kudo_comment_ratio: ρ: 0.00, p: 0.88
+
+
+
+flesch_ease
+
+kudos: ρ: -0.12, p: 0.00
+comments: ρ: -0.13, p: 0.00
+kudo_time_ratio: ρ: -0.09, p: 0.00
+comment_time_ratio: ρ: -0.09, p: 0.00
+kudo_comment_ratio: ρ: 0.01, p: 0.51
+
+
+
+smog
+
+kudos: ρ: 0.11, p: 0.00
+comments: ρ: 0.15, p: 0.00
+kudo_time_ratio: ρ: 0.08, p: 0.00
+comment_time_ratio: ρ: 0.10, p: 0.00
+kudo_comment_ratio: ρ: -0.05, p: 0.01
+
+
+
+ari
+
+kudos: ρ: 0.20, p: 0.00
+comments: ρ: 0.16, p: 0.00
+kudo_time_ratio: ρ: 0.16, p: 0.00
+comment_time_ratio: ρ: 0.12, p: 0.00
+kudo_comment_ratio: ρ: 0.07, p: 0.00
+
+
+
+dale_chall
+
+kudos: ρ: 0.13, p: 0.00
+comments: ρ: 0.15, p: 0.00
+kudo_time_ratio: ρ: 0.11, p: 0.00
+comment_time_ratio: ρ: 0.12, p: 0.00
+kudo_comment_ratio: ρ: -0.01, p: 0.57

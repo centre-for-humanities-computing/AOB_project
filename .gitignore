@@ -1,0 +1,11 @@
+# dont get the raw_data
+data/raw_data/
+
+# don't get the logs and pycache files
+logs/
+__pycache__/
+
+# etc
+
+# dont get the AOB_stylistics_short_texts.json in features
+features/AOB_stylistics_short_texts_features.json

@@ -9,3 +9,6 @@ __pycache__/
 
 # dont get the AOB_stylistics_short_texts.json in features
 features/AOB_stylistics_short_texts_features.json
+
+# ignore DS_Store files
+.DS_Store
